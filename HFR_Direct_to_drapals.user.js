@@ -5,7 +5,7 @@
 // @grant       none
 // @version     0.1.0
 // @author      Lt Ripley
-// @description Charge automatiquement la page des drapeaux lorsqu'on va sur la racine du forum.hardware.fr
+// @description Charge automatiquement la page des drapeaux lorsqu'on va sur la racine forum.hardware.fr
 // ==/UserScript==
 
 // Creation 25/09/2020
